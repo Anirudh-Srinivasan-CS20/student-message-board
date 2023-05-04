@@ -1,10 +1,8 @@
-# README
-
-[ToC]
+# Student Message Board - Group 38
 
 ## Code Organization
 
-The code is organized into two folders: **backend** and **frontend**.
+The code is organized into three folders: **backend**, **frontend** and **database**.
 
 ### backend
 This folder contains the Javascript files used to integrate the frontend of the application with the PostgreSQL database server. There are two files of interest:
